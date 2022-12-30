@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\bin\Debug\net6.0\week9ListAndFunctions.exe
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\bin\Debug\net6.0\week9ListAndFunctions.deps.json
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\bin\Debug\net6.0\week9ListAndFunctions.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\bin\Debug\net6.0\week9ListAndFunctions.dll
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\bin\Debug\net6.0\week9ListAndFunctions.pdb
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.dll
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\refint\week9ListAndFunctions.dll
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.pdb
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\week9ListAndFunctions.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week9ListAndFunctions\week9ListAndFunctions\obj\Debug\net6.0\ref\week9ListAndFunctions.dll
